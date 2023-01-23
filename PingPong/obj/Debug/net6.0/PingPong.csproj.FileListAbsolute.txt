@@ -1,0 +1,5 @@
+E:\dotnet\Games-from-ChatGPT-using-.Net\PingPong\obj\Debug\net6.0\PingPong.csproj.AssemblyReference.cache
+E:\dotnet\Games-from-ChatGPT-using-.Net\PingPong\obj\Debug\net6.0\PingPong.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\Games-from-ChatGPT-using-.Net\PingPong\obj\Debug\net6.0\PingPong.AssemblyInfoInputs.cache
+E:\dotnet\Games-from-ChatGPT-using-.Net\PingPong\obj\Debug\net6.0\PingPong.AssemblyInfo.cs
+E:\dotnet\Games-from-ChatGPT-using-.Net\PingPong\obj\Debug\net6.0\PingPong.csproj.CoreCompileInputs.cache
