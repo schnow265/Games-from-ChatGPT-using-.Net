@@ -1,0 +1,15 @@
+E:\dotnet\Games-from-ChatGPT-using-.Net\Console\Console\bin\Debug\net7.0\Console.exe
+E:\dotnet\Games-from-ChatGPT-using-.Net\Console\Console\bin\Debug\net7.0\Console.deps.json
+E:\dotnet\Games-from-ChatGPT-using-.Net\Console\Console\bin\Debug\net7.0\Console.runtimeconfig.json
+E:\dotnet\Games-from-ChatGPT-using-.Net\Console\Console\bin\Debug\net7.0\Console.dll
+E:\dotnet\Games-from-ChatGPT-using-.Net\Console\Console\bin\Debug\net7.0\Console.pdb
+E:\dotnet\Games-from-ChatGPT-using-.Net\Console\Console\obj\Debug\net7.0\Console.csproj.AssemblyReference.cache
+E:\dotnet\Games-from-ChatGPT-using-.Net\Console\Console\obj\Debug\net7.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\Games-from-ChatGPT-using-.Net\Console\Console\obj\Debug\net7.0\Console.AssemblyInfoInputs.cache
+E:\dotnet\Games-from-ChatGPT-using-.Net\Console\Console\obj\Debug\net7.0\Console.AssemblyInfo.cs
+E:\dotnet\Games-from-ChatGPT-using-.Net\Console\Console\obj\Debug\net7.0\Console.csproj.CoreCompileInputs.cache
+E:\dotnet\Games-from-ChatGPT-using-.Net\Console\Console\obj\Debug\net7.0\Console.dll
+E:\dotnet\Games-from-ChatGPT-using-.Net\Console\Console\obj\Debug\net7.0\refint\Console.dll
+E:\dotnet\Games-from-ChatGPT-using-.Net\Console\Console\obj\Debug\net7.0\Console.pdb
+E:\dotnet\Games-from-ChatGPT-using-.Net\Console\Console\obj\Debug\net7.0\Console.genruntimeconfig.cache
+E:\dotnet\Games-from-ChatGPT-using-.Net\Console\Console\obj\Debug\net7.0\ref\Console.dll
